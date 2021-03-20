@@ -30,19 +30,6 @@
       "leaves": "10"
     },
     {
-      "id": "Gandhi_ra",
-      "email": "Rahul@Xoriant.com",
-      "name": "Rahul Gandhi",
-      "password": "1234",
-      "designation": "Associate Software Engineer",
-      "DOJ": "2021-01-13",
-      "Projects": [],
-      "isAdmin": false,
-      "avatar": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
-      "location": "Banglore",
-      "leaves": "10"
-    },
-    {
       "id": "Dixit_ri",
       "email": "Rishabh@Xoriant.com",
       "name": "Rishabh Dixit",
@@ -68,7 +55,20 @@
       "location": "Banglore",
       "leaves": "10"
     },
-   
+    {
+      "id": "Doe_john",
+      "email": "Jhon.Doe@Xoriant.com",
+      "name": "Jagjeet Singh",
+      "password": "1234",
+      "designation": "Intern",
+      "DOJ": "2021-01-13",
+      "Projects": [],
+      "isAdmin": false,
+      "avatar": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "location": "Banglore",
+      "leaves": "10",
+      "phone": "8602758045"
+    },
     {
       "id": "Dosanj_Diljeet",
       "email": "Diljeet.Dosanj@Xoriant.com",
@@ -83,7 +83,20 @@
       "leaves": "10",
       "phone": "8602758045"
     },
-    
+    {
+      "id": "Davidson_Harly",
+      "email": "user@Xoriant.com",
+      "name": "Harley Davidson",
+      "password": "1234",
+      "designation": "Intern",
+      "DOJ": "2021-01-13",
+      "Projects": [],
+      "isAdmin": false,
+      "avatar": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "location": "Banglore",
+      "leaves": "10",
+      "phone": "8602758045"
+    },
     {
       "id": "Garg_divya",
       "email": "Divya@Xoriant.com",
@@ -211,11 +224,35 @@
       "start": "2020-11-11",
       "end": "2021-12-08",
       "avatar": "https://media3.s-nbcnews.com/j/newscms/2020_26/3391986/200623-amazon-al-0810_47f0335770a02be8ee80770a51c02c7a.fit-760w.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Azure IOT",
+      "start": "2020-11-11",
+      "end": "2021-12-08",
+      "avatar": "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/AzureCloud_1_5.jpg?itok=htcIZVHD"
+    },
+    {
+      "id": 10,
+      "name": "Big Data",
+      "start": "2020-11-11",
+      "end": "2021-12-08",
+      "avatar": "https://miro.medium.com/max/1024/0*QxsWlMTDGmTebavF.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Information Practices",
+      "start": "2021-11-11",
+      "end": "2021-12-08",
+      "avatar": "https://www.cisco.com/c/dam/assets/swa/img/630/info-security-infosec-630x420.png"
+    },
+    {
+      "id": 12,
+      "name": "Citi Bank",
+      "start": "2021-11-11",
+      "end": "2021-12-08",
+      "avatar": "https://play-lh.googleusercontent.com/gb0QL9lUwKItMZ6b7Z-6DmdLaWpRy1VAk_I5EBpSk8CLXnDqzYS0vpSIqqdmkEixrmo"
     }
-   
-  
-   
-   
   ],
   "timesheet": [],
   "leaves": [
